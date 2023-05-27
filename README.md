@@ -80,7 +80,7 @@ Les outils développés doivent permettre d'analyser des fichiers textes, dans u
 Un exemple de mise en œuvre sera d'analyser un fichier texte chiffré pour en déduire la statistique de fréquence des caractères utilisés.
 
  1. Concevoir et réaliser des outils de déchiffrement d'un texte codé dont on ne connait pas la clé. En plus du texte codé, on dispose des statistiques des fréquences issues d'analyses de textes concernant le domaine et les langues supposés pouvoir correspondre au texte à déchiffrer.
-En calculant les statistiques des fréquences sur le texte codé et en les mettant en correspondances avec des statistiques de fréquences d'autres textes (non codés) supposés écrits dans les mêmes langue/domaine, il est possible de formuler des hypothèses de clés. Chaque hypothèse de clé peut alors être utilisée pour décoder le texte codé afin de pouvoir reconnaître des mots. Lorsqu'une hypothèse de clé permet d'identifier des mots, il faut tenter de la << réajuster » jusqu'à obtenir une clé qui induit un texte décodé compréhensible.
+En calculant les statistiques des fréquences sur le texte codé et en les mettant en correspondances avec des statistiques de fréquences d'autres textes (non codés) supposés écrits dans les mêmes langue/domaine, il est possible de formuler des hypothèses de clés. Chaque hypothèse de clé peut alors être utilisée pour décoder le texte codé afin de pouvoir reconnaître des mots. Lorsqu'une hypothèse de clé permet d'identifier des mots, il faut tenter de la « réajuster » jusqu'à obtenir une clé qui induit un texte décodé compréhensible.
 
 L'objectif pédagogique de cet exercice est de mettre en œuvre un cycle itératif de développement avec un plan de test cohérent.
 
