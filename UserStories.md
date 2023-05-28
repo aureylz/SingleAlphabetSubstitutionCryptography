@@ -44,9 +44,9 @@ Un exemple de mise en œuvre sera le codage de fichiers textes (et évidemment l
 - **DOR :** La clé de substitution est disponible.
 - **DOD :** La clé est vérifiée et prête à être utilisée pour le codage.
 - **Critères d'acceptance :**
-  - [ ] La clé de substitution est une bijection
-  - [ ] La clé ne contient pas de caractères en double
-  - [ ] L'application renvoie une erreur si la clé est invalide
+  - [x] La clé de substitution est une bijection
+  - [x] La clé ne contient pas de caractères en double
+  - [x] L'application renvoie une erreur si la clé est invalide
 
 ### [CODE-01] Codage du texte avec la clé validée
 
