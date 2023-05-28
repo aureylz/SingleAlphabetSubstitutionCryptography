@@ -54,9 +54,10 @@ Un exemple de mise en œuvre sera le codage de fichiers textes (et évidemment l
 - **DOR :** La clé de substitution est valide et le texte à coder est prêt.
 - **DOD :** Le texte est codé correctement avec la clé de substitution.
 - **Critères d'acceptance :**
-  - [ ] Le texte codé est différent du texte d'origine
-  - [ ] Un texte identique codé avec la même clé produira le même texte codé
-  - [ ] Un texte vide reste vide après codage
+  - [x] Le texte codé est différent du texte d'origine
+  - [x] Un texte identique codé avec la même clé produira le même texte codé
+  - [x] Un texte vide reste vide après codage
+  - [x] L'output du texte codé correspond exactement à ce qui est attendu pour un exemple simple.
 
 ## Epic 2 : Décodage d'un texte
 
