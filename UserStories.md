@@ -32,9 +32,9 @@ Un exemple de mise en œuvre sera le codage de fichiers textes (et évidemment l
 - **DOR :** Les outils de développement (IDE, Java SDK, etc.) sont installés et prêts à l'emploi.
 - **DOD :** L'environnement de développement est opérationnel et la structure de code de base (avec les packages de base et les classes principales) est créée.
 - **Critères d'acceptance :**
-  - [ ] L'environnement de développement est fonctionnel et prêt pour le développement
-  - [ ] La structure de code de base est mise en place avec les packages nécessaires
-  - [ ] Les classes principales pour le codage et le décodage sont créées, même si elles sont initialement vides ou contiennent seulement des méthodes squelettes.
+  - [x] L'environnement de développement est fonctionnel et prêt pour le développement
+  - [x] La structure de code de base est mise en place avec les packages nécessaires
+  - [x] Les classes principales pour le codage et le décodage sont créées, même si elles sont initialement vides ou contiennent seulement des méthodes squelettes.
 
 ## Epic 1 : Codage d'un texte
 
